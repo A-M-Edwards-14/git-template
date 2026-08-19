@@ -3,7 +3,7 @@ requires = ["setuptools"]
 build-backend = "setuptools.build_meta"
 
 [project]
-name = "findit"
+name = "tool-name"
 version = "0.1.0"
 
 [tool.setuptools]
