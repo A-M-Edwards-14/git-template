@@ -113,8 +113,8 @@ Details for potential subsections within each epic.
 
 ## **Maintainers**
 
-Team Member 1 (TM1): team.member1@hse.gov.uk
+Team Member 1 (TM1): team.member1@email.com
 
-Team Member 2 (TM2): team.member2@hse.gov.uk
+Team Member 2 (TM2): team.member2@email.com
 
-Team Member 3 (TM3): team.member3@hse.gov.uk
+Team Member 3 (TM3): team.member3@email.com
