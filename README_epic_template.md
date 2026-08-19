@@ -1,9 +1,6 @@
 # **Folder Name**
 INSERT DESCRIPTION OF THE OVERALL PURPOSE OF ALL THE SCRIPTS IN THIS FOLDER.
 
-Eg:
-
-This folder contains all the scripts required to extract free text information from within PTS documents, inspection reports & investigation reports for the COMAH project. All documents must be in a docx format prior to under-going the document extraction process.
 
 ---
 
@@ -31,8 +28,8 @@ ADD DESCRIPTION OF SCRIPT 3 HERE. WHAT DOES IT DO? HOW DOES IT WORK? WHAT IS INP
 
 ## **Maintainers**
 
-Team Member 1 (TM1): team.member1@hse.gov.uk
+Team Member 1 (TM1): team.member1@email.com
 
-Team Member 2 (TM2): team.member2@hse.gov.uk
+Team Member 2 (TM2): team.member2@email.com
 
 Team Member 3 (TM3): team.member3@hse.gov.uk
